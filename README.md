@@ -5,3 +5,4 @@ In addition to enemies, the player will encounter other challenges such as colle
 The ultimate goal of the game is to progress through the course while enhancing your character, allowing you to eventually confront the final enemy and consequently complete the game.
 
 # Autors
+Esse projeto foi desenvolvido pelos seguintes alunos: Bogos Bedik Chaves Sismanoglu (up2022013890), Bruno Coutinho Pereira (up202206351) e Tiago Fernando da Costa Ferreira (up 202207311).
