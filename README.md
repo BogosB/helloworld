@@ -15,3 +15,13 @@ This project was developed by the following students:
 The player character (Player class) is a movable object that can be created at a specific position on the grid.
 The player can move in four directions: up, down, left, and right.
 
+**Graphics and Printing:**
+The game has a graphical user interface (GUI) implemented using the Lanterna library.
+There is a “Printer” class responsible for printing both movable and static objects on the screen.
+
+**Object Factories:**
+Object factories (GameObjectFactory, MovableObjectFactory, NonMovableObjectFactory, StaticObjectFactory) are used for creating instances of different types of game objects with specific graphics and positions.
+
+**Static Objects:**
+There are static objects (e.g., StaticObject, BasicTree, Wall) that can be created at specific positions on the grid with distinct graphics.
+
