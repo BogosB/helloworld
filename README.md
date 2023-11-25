@@ -11,7 +11,7 @@ This project was developed by the following students:
  - Tiago Fernando da Costa Ferreira (up 202207311)
 
 ### IMPLEMENTED FEATURES
-*Player Movement:*
+**Player Movement:**
 The player character (Player class) is a movable object that can be created at a specific position on the grid.
 The player can move in four directions: up, down, left, and right.
 
