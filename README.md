@@ -11,5 +11,7 @@ This project was developed by the following students:
  - Tiago Fernando da Costa Ferreira (up 202207311)
 
 ### IMPLEMENTED FEATURES
-testejwd v 
-![uml22](https://github.com/BogosB/helloworld/assets/64612527/56d4763a-14bc-4f1a-99c8-d8731a68a7ce)
+*Player Movement:*
+The player character (Player class) is a movable object that can be created at a specific position on the grid.
+The player can move in four directions: up, down, left, and right.
+
