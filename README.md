@@ -6,6 +6,6 @@ The ultimate goal of the game is to progress through the course while enhancing 
 
 # Autors
 This project was developed by the following students: 
--Bogos Bedik Chaves Sismanoglu (up2022013890)
--Bruno Coutinho Pereira (up202206351)
--Tiago Fernando da Costa Ferreira (up 202207311)
+ - Bogos Bedik Chaves Sismanoglu (up2022013890)
+ - Bruno Coutinho Pereira (up202206351)
+ - Tiago Fernando da Costa Ferreira (up 202207311)
