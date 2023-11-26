@@ -30,9 +30,9 @@ Object factories (GameObjectFactory, MovableObjectFactory, NonMovableObjectFacto
 There are static objects (e.g., StaticObject, BasicTree, Wall) that can be created at specific positions on the grid with distinct graphics.
 
 ### PLANNED FEATURES
-Menu for the player
-More types of enemies and their respective strategies
-Implementation of more varieties of weapons
+ -Menu for the player
+ -More types of enemies and their respective strategies
+ -Implementation of more varieties of weapons
 Sprite animations
 More map designs
 
