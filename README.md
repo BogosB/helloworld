@@ -42,9 +42,10 @@ Here are the features to be implemented:
 - Sprite animations
 - More map designs
 
-Estas classes podem ser encontradas nos seguintes ficheiros:
-- [Game](https://github.com/FEUP-LPOO-2021/lpoo-2021-g32/blob/f3035f408114fa01f72dd7e44e898348d4b1e3ca/src/main/java/com/lpoo/fallout/controller/Game.java#L14)
-- [Entities](https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/Entities)
+- [GameObjectFactory](https://github.com/FEUP-LDTS-2023/project-l05gr04/blob/dev/src/main/java/com/projects/ldtsProject/Global/Object/GameObjectFactory.java)
+- [MovableObjectFactory](https://github.com/FEUP-LDTS-2023/project-l05gr04/blob/dev/src/main/java/com/projects/ldtsProject/Global/Object/MovableObjectFactory.java)
+- [NonMovableObjectFactory](https://github.com/FEUP-LDTS-2023/project-l05gr04/blob/dev/src/main/java/com/projects/ldtsProject/Global/Object/NonMovableObjectFactory.java)
+- [StaticObjectFactory](https://github.com/FEUP-LDTS-2023/project-l05gr04/blob/dev/src/main/java/com/projects/ldtsProject/Global/Object/StaticObjectFactory.java)
 - [Gui] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/GUI
 - [Gird] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/Global/Grid
 - [Object] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/Global/Object
