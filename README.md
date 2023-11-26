@@ -16,7 +16,7 @@ The player character (Player class) is a movable object that can be created at a
 The player can move in four directions: up, down, left, and right.
 
 
-  ![Term1-Trim](https://github.com/BogosB/helloworld/assets/64612527/7e03181c-04e1-4067-8627-d6d5ad205477)
+  ![Term1-Trim](https://github.com/BogosB/helloworld/assets/64612527/7e03181c-04e1-4067-8627-d6d5ad205477 | width=100)
 
 
 **Graphics and Printing:**
