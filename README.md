@@ -30,4 +30,12 @@ Object factories (GameObjectFactory, MovableObjectFactory, NonMovableObjectFacto
 There are static objects (e.g., StaticObject, BasicTree, Wall) that can be created at specific positions on the grid with distinct graphics.
 
 
-- [staticObjects] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/StaticObjects
+Estas classes podem ser encontradas nos seguintes ficheiros:
+- [staticObjects] (https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/StaticObjects)
+- [Entities] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/Entities
+- [Gui] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/GUI
+- [Gird] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/Global/Grid
+- [Object] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/Global/Object
+- [StaticObjects] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/StaticObjects
+- [Wepons] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/Weapons
+- [GameRun] https://github.com/FEUP-LDTS-2023/project-l05gr04/blob/dev/src/main/java/com/projects/ldtsProject/GameRun.java
