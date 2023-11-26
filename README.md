@@ -15,11 +15,9 @@ This project was developed by the following students:
 The player character (Player class) is a movable object that can be created at a specific position on the grid.
 The player can move in four directions: up, down, left, and right.
 
-<p align = "center">
-  ![Term1-Trim](https://github.com/BogosB/helloworld/assets/64612527/7e03181c-04e1-4067-8627-d6d5ad205477)
-[project-l05gr04-dev (2).zip](https://github.com/BogosB/helloworld/files/13468043/project-l05gr04-dev.2.zip)
 
-</p>
+  ![Term1-Trim](https://github.com/BogosB/helloworld/assets/64612527/7e03181c-04e1-4067-8627-d6d5ad205477)
+
 
 **Graphics and Printing:**
 The game has a graphical user interface (GUI) implemented using the Lanterna library.
