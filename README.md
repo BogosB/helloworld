@@ -29,3 +29,5 @@ Object factories (GameObjectFactory, MovableObjectFactory, NonMovableObjectFacto
 **Static Objects:**
 There are static objects (e.g., StaticObject, BasicTree, Wall) that can be created at specific positions on the grid with distinct graphics.
 
+
+- [staticObjects] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/StaticObjects
