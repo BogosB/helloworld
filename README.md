@@ -30,11 +30,13 @@ Object factories (GameObjectFactory, MovableObjectFactory, NonMovableObjectFacto
 There are static objects (e.g., StaticObject, BasicTree, Wall) that can be created at specific positions on the grid with distinct graphics.
 
 ### PLANNED FEATURES
+
+Here are the features to be implemented:
  -Menu for the player
  -More types of enemies and their respective strategies
  -Implementation of more varieties of weapons
-Sprite animations
-More map designs
+ -Sprite animations
+ -More map designs
 
 Estas classes podem ser encontradas nos seguintes ficheiros:
 - [Game](https://github.com/FEUP-LPOO-2021/lpoo-2021-g32/blob/f3035f408114fa01f72dd7e44e898348d4b1e3ca/src/main/java/com/lpoo/fallout/controller/Game.java#L14)
