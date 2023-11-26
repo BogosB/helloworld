@@ -31,7 +31,7 @@ There are static objects (e.g., StaticObject, BasicTree, Wall) that can be creat
 
 
 Estas classes podem ser encontradas nos seguintes ficheiros:
-- [staticObjects] (https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/StaticObjects)
+ - [Game] (https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/StaticObjects)
 - [Entities] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/Entities
 - [Gui] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/GUI
 - [Gird] https://github.com/FEUP-LDTS-2023/project-l05gr04/tree/dev/src/main/java/com/projects/ldtsProject/Global/Grid
