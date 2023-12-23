@@ -16,7 +16,7 @@ This project was developed by the following students:
 The player character (Player class) is a movable object that can be created at a specific position on the grid.
 The player can move, using the input reader, in four directions: up, down, left, and right.
 
-<img src=https://github.com/FEUP-LDTS-2023/project-l05gr04/assets/64612527/2c2545ff-8d75-4dbb-b742-8ce2741da506 width="500" height="500">
+<img src= width="500" height="500">
 
 **Graphics and Printing:**
 The game has a graphical user interface (GUI) implemented using the Lanterna library.
@@ -67,7 +67,7 @@ The game features an HP bar that reflects the current health status of the playe
 **Final Game** 
 The following gif ilustrate the general look of our game.
 
-<img src=https://github.com/BogosB/helloworld/assets/64612527/5ef8bfe6-89e6-455c-beca-dc29ab6128b2  width="2500" height="2500">
+<img src=https://github.com/BogosB/helloworld/assets/64612527/cb1011ea-e4e9-47c5-b8e5-a25e41d66d8f width="2500" height="2500">
 
 
 
