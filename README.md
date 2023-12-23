@@ -64,6 +64,11 @@ Every map has coins that serve as collectibles or as currency to use in stores(i
 **Health**
 The game features an HP bar that reflects the current health status of the player.
 
+**Final Game** 
+The following gif ilustrate the general look of our game.
+<img src:https://github.com/BogosB/helloworld/assets/64612527/d7584616-faed-4c21-a74d-ea0f10cbc01c width="500" height="500>
+
+
 
 ### PLANNED FEATURES
 
@@ -73,9 +78,6 @@ If stores are implemented, they are going to sell weapons and equipments for a p
 **Equipment:**
 Not sure if it's going to be implemented, but the idea is to like weapons have many equipments scattered around the map, that are going to work as boosters to player attributes (ex: equipments that modify player speed, health, attack modifier...).
 
-
-![image](https://github.com/FEUP-LDTS-2023/project-l05gr04/assets/38361094/3beca017-34c0-4328-8f59-bf6d7fb79f80)
-![image](https://github.com/FEUP-LDTS-2023/project-l05gr04/assets/38361094/fe6ec4df-0928-4ad0-9e09-ca3874227710)
 
 ### DESIGN
 
