@@ -39,7 +39,7 @@ Distinguishing between various types of game objects:
   Represents an entity capable of both movement and removal from the map.
   Examples include monsters that roam around the map and can be eliminated by the player.
 
-<img src=https://github.com/FEUP-LDTS-2023/project-l05gr04/assets/64612527/065ce2d4-5e2b-4a7a-82c6-e4bf61137820  width="500" height="500">
+<img src=https://github.com/FEUP-LDTS-2023/project-l05gr04/assets/64612527/065ce2d4-5e2b-4a7a-82c6-e4bf61137820  width="1000" height="1000">
 
 
 **Game Initialization:**
