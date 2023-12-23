@@ -62,12 +62,13 @@ Different types of maps were created, each map can have weapons and equipments, 
 Every map has coins that serve as collectibles or as currency to use in stores(if implemented).
 
 **Health**
-
+The game features an HP bar that reflects the current health status of the player.
 
 
 ### PLANNED FEATURES
 
 **Store**
+If stores are implemented, they are going to sell weapons and equipments for a price.
 
 **Equipment:**
 Not sure if it's going to be implemented, but the idea is to like weapons have many equipments scattered around the map, that are going to work as boosters to player attributes (ex: equipments that modify player speed, health, attack modifier...).
