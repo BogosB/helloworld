@@ -67,7 +67,7 @@ The game features an HP bar that reflects the current health status of the playe
 **Final Game** 
 The following gif ilustrate the general look of our game.
 
-<img src=https://github.com/BogosB/helloworld/assets/64612527/5ef8bfe6-89e6-455c-beca-dc29ab6128b2  width="1000" height="1000">
+<img src=https://github.com/BogosB/helloworld/assets/64612527/5ef8bfe6-89e6-455c-beca-dc29ab6128b2  width="500" height="500">
 
 
 
