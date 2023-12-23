@@ -44,27 +44,34 @@ Distinguishing between various types of game objects:
 
 **Game Initialization:**
 The game initializes a GUI, a move object, a printer, and various object factories in the GameRun class.
-It creates a player using the factory, reads every input, and then prints the grid occupation class objects.
+It creates a player using the factory, reads every input, and then prints the grid occupation class objects
+
+**Monster Activity:**
+Every monster has an idle and attacking modes and a strategy, during idle mode every monster roams around the map using its strategy, and when certain conditions are met, the monster enter the attacking mode trying to approach the player.
+
+**Inventory:**
+The player has an inventory that stores the weapons that player gathered, and an option to the player choose the current weapon.
+
+**Weapons:**
+Many weapons with different types and status (ex:sword, bow, warhammer), were implemented. This weppons are scattered around the map, so that can be collected by the player.
+
+**Phases:**
+Different types of maps were created, each map can have weapons and equipments, enemies, static objects and entry/exit points.
+
+**Coins**
+Every map has coins that serve as collectibles or as currency to use in stores(if implemented).
+
+**Health**
+
+
 
 ### PLANNED FEATURES
 
-**Monster Activity:**
-Every monster is going to have an idle and attacking modes and a strategy, during idle mode every monster is going to roam around the map using its strategy, and when certain conditions are met, the monster enter the attacking mode trying to approach the player.
-
-**Inventory:**
-The player is going to have an inventory that stores the weapons that player gathered, and an option to the player choose the current weapon.
-
-**Weapons:**
-There are going to be many weapons, with different types and status (ex:sword, bow...), scattered around the map, that can be collected by the player.
+**Store**
 
 **Equipment:**
 Not sure if it's going to be implemented, but the idea is to like weapons have many equipments scattered around the map, that are going to work as boosters to player attributes (ex: equipments that modify player speed, health, attack modifier...).
 
-**Phases:**
-There are going to be different maps, each map can have weapons and equipments (if implemented), enemies, static objects and entry/exit points.
-
-**Coins/Store:**
-Every map is going to have coins that serve as collectibles or as currency to use in stores(if implemented). If stores are implemented, they are going to sell weapons and equipments for a price.
 
 ![image](https://github.com/FEUP-LDTS-2023/project-l05gr04/assets/38361094/3beca017-34c0-4328-8f59-bf6d7fb79f80)
 ![image](https://github.com/FEUP-LDTS-2023/project-l05gr04/assets/38361094/fe6ec4df-0928-4ad0-9e09-ca3874227710)
